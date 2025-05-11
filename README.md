@@ -9,4 +9,4 @@ The developed genetic algorithm utilises:
 
 Three problem instances, sourced [here](http://vrp.atd-lab.inf.puc-rio.br/index.php/en/)<sup>1</sup>, are provided as examples.
 
-<sup>[1]</sup>: Uchoa, E., Pecin, D., Pessoa, A., Poggi, M., Vidal, T., Subramanian, A., 2017. New benchmark instances for the Capacitated Vehicle Routing Problem. European Journal of Operational Research 257, 845–858. https://doi.org/10.1016/j.ejor.2016.08.012
+<sup>[1]</sup> Uchoa, E., Pecin, D., Pessoa, A., Poggi, M., Vidal, T., Subramanian, A., 2017. New benchmark instances for the Capacitated Vehicle Routing Problem. European Journal of Operational Research 257, 845–858. https://doi.org/10.1016/j.ejor.2016.08.012
